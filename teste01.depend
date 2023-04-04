@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679528788 source:c:\users\lilia\onedrive\ambiente de trabalho\projectos em c\teste01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+
